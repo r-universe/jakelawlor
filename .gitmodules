@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "PNWColors"]
 	path = PNWColors
 	url = https://github.com/jakelawlor/pnwcolors
-	shallow = true
-	registered = true
